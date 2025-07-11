@@ -1,0 +1,6 @@
+print(10, 20,30, sep=" - ",end="#")
+print(50, 60,70, sep=" * ",end="\n")
+print(80, 90,100, sep=" - ",end="\n")
+print(110, 120,130, sep=" - ",end="\n")
+print(140, 150,160, sep=" - ",end="\n")
+print('Fabricio','simone','andre', sep=' * ',end=' #')
